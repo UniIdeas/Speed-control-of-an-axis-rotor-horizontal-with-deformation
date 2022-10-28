@@ -57,4 +57,4 @@ Screenshot of the graphic animation:
 - [Davide Badini](https://github.com/UniIdeas)
 - [Luca Berardi](https://github.com/LucaBerardi6)
 - [Marco Motamed](https://github.com/MotaMarco)
-- [Giuseppe Sergi](https://github.com/GiuseppeSergi3)
+- [Giuseppe Sergi](https://github.com/GiuseppeSergi3) 
