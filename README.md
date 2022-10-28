@@ -9,5 +9,5 @@ We want to build a controller to obtain an angular velocity ω that is constant 
 the deformation on one of the propeller blades that causes non-linearity.
 
 <p align="center">
-  <img src="images/elica.jpg">
+  <img src="Images/elica.jpg">
 </p>
