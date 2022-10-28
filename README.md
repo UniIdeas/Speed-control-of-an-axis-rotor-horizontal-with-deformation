@@ -12,6 +12,45 @@ the deformation on one of the propeller blades that causes non-linearity.
   <img src="Images/elica.jpg">
 </p>
 
+## Development of the project 🕥
+it is possible to see the entire development of the project, with the relative formulas and variables in the [report file](https://github.com/UniIdeas/Speed-control-of-an-axis-rotor-horizontal-with-deformation/blob/main/Report/RELAZIONE.pdf).
+
+## Results
+Bode diagram of the extends system with constraints:
+<p align="center">
+  <img src="Images/DiagrammaBode2.jpg">
+</p>
+
+
+Bode diagram of the L function:
+<p align="center">
+  <img src="Images/DiagrammaBodeLs.jpg">
+</p>
+
+
+Bode diagram of the Step Response function:
+<p align="center">
+  <img src="Images/StepResponse.jpg">
+</p>
+
+
+Controller design on Simulink:
+<p align="center">
+  <img src="Images/Simulink.jpg">
+</p>
+
+
+Simulation with measurement noise:
+<p align="center">
+  <img src="Images/Simulation.jpg">
+</p>
+
+
+Screenshot of the graphic animation:
+<p align="center">
+  <img src="Images/ScreenshotGraphicAnimation.jpg">
+</p>
+
 
 ## Credits 🫂
 - [Davide Badini](https://github.com/UniIdeas)
