@@ -13,7 +13,7 @@ the deformation on one of the propeller blades that causes non-linearity.
 </p>
 
 
-## Credits
+## Credits 🫂
 - [Davide Badini](https://github.com/UniIdeas)
 - [Luca Berardi](https://github.com/LucaBerardi6)
 - [Marco Motamed](https://github.com/MotaMarco)
